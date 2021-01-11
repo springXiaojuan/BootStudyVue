@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-      <span>我是index 页面 dss</span>
+      <span>我是index 页面 dsshhhh</span>
   </div>
 </template>
 
